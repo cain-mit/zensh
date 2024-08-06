@@ -1,8 +1,6 @@
 # Zensh
 
-This is the zsh configuration for the Dreams of Autonomy YouTube Channel.
-
-Using this as a base configuration to create personalised zshrc for following two environments:
+Using [this as a base configuration](https://github.com/dreamsofautonomy/zensh) to create personalised zshrc for following two environments:
 
 #### 1. Raspberry PI
 Raspbian OS does not support the [latest version of fzf](https://github.com/junegunn/fzf?tab=readme-ov-file#linux-packages). For this specific usecase, we will disable fzf.
